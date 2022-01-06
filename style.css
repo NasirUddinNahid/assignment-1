@@ -82,9 +82,9 @@
 
 .backgrounrd-third{
     background-image: url(img/shape-1.png);
+    background-size: 100px;
     background-repeat: no-repeat;
     background-position: 300px 50px;
-    background-size: 100px;
 }
 /* fourth section*/
 .fourth-section{
@@ -92,9 +92,9 @@
 }
 .backgrounrd-fourth{
     background-image: url(img/shape-6.png);
+    background-size: 100px;
     background-repeat: no-repeat;
     background-position: 520px 60px;
-    background-size: 100px;
 
 }
 /* fifth section*/
@@ -103,9 +103,9 @@
 }
 .backgrounrd-fifth{
     background-image: url(img/shape-8.png);
+    background-size: 100px;
     background-repeat: no-repeat;
     background-position: 300px 50px;
-    background-size: 100px;
     
 }
 /* sixth section*/
@@ -114,9 +114,9 @@
 }
 .backgrounrd-sixth{
     background-image: url(img/shape-7.png);
+    background-size: 100px;
     background-repeat: no-repeat;
     background-position: 610px 60px;
-    background-size: 100px;
     
 }
 /* last section*/
