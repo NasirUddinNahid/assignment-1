@@ -9,6 +9,7 @@
 }
 .half-width img{
     width: 40%;
+    margin-left: 200px;
 }
 .sizing-font{
     font-size: larger;
@@ -82,7 +83,7 @@
 .backgrounrd-third{
     background-image: url(img/shape-1.png);
     background-repeat: no-repeat;
-    background-position: 150px;
+    background-position: 300px 50px;
     background-size: 100px;
 }
 /* fourth section*/
@@ -92,7 +93,7 @@
 .backgrounrd-fourth{
     background-image: url(img/shape-6.png);
     background-repeat: no-repeat;
-    background-position: 440px;
+    background-position: 520px 60px;
     background-size: 100px;
 
 }
@@ -103,7 +104,18 @@
 .backgrounrd-fifth{
     background-image: url(img/shape-8.png);
     background-repeat: no-repeat;
-    background-position: 150px;
+    background-position: 300px 50px;
+    background-size: 100px;
+    
+}
+/* sixth section*/
+.sixth-section{
+    margin-top: 70px;
+}
+.backgrounrd-sixth{
+    background-image: url(img/shape-7.png);
+    background-repeat: no-repeat;
+    background-position: 610px 60px;
     background-size: 100px;
     
 }
