@@ -1,0 +1,131 @@
+/* first-section*/
+.parent{
+    display: flex;
+   
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 40%;
+}
+.sizing-font{
+    font-size: larger;
+}
+.color-mission{
+    color: #0e3f8a;
+}
+.blue-color-mission{
+    border-left: 5px solid black;
+    border-image:linear-gradient(45deg,#7979e9,cyan);
+    border-image-slice: 1;
+}
+.button{
+    padding: 10px 40px;
+    border-radius: 5px;
+    background-image: linear-gradient(45deg,blue,cyan,blue);
+    color: white;
+}
+.using-left-border{
+    border-left: 6px solid;
+    border-image: linear-gradient(45deg,#6f6fd6,#1fe2e2,blue) ;
+    border-image-slice: 1;
+    
+}
+
+/* second section*/
+.second-section{
+    text-align: center;
+    margin-top: 50px;
+}
+.mission{
+    width: 350px;
+    margin: 40px;
+    border-radius: 10px;
+    background-color: #f1ece2;
+}
+.vision{
+    width: 350px;
+    margin: 40px;
+    border-radius: 10px;
+    background-color: #e2e7f1;
+}
+.goals{
+    width: 350px;
+    margin: 40px;
+    border-radius: 10px;
+    background-color: #f1e2ec;
+}
+.div-img img{
+    width: 100%;
+}
+.all-devision{
+    display: flex;
+    padding: 50px;
+    justify-content: center;
+}
+.middle-section{
+    padding: 30px 15px;
+    text-align: left;
+    
+}
+.heading-two{
+    margin: 0;
+    padding: 0;
+}
+.img-div{
+    width: 60%;
+}
+/* third section*/
+
+.backgrounrd-third{
+    background-image: url(img/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 150px;
+    background-size: 100px;
+}
+/* fourth section*/
+.fourth-section{
+    margin-top: 70px;
+}
+.backgrounrd-fourth{
+    background-image: url(img/shape-6.png);
+    background-repeat: no-repeat;
+    background-position: 440px;
+    background-size: 100px;
+
+}
+/* fifth section*/
+.fifth-section{
+    margin-top: 70px;
+}
+.backgrounrd-fifth{
+    background-image: url(img/shape-8.png);
+    background-repeat: no-repeat;
+    background-position: 150px;
+    background-size: 100px;
+    
+}
+/* last section*/
+.last-section{
+    background-color: black;
+    margin-top: 90px;
+    width: 100%;
+    height:200px;
+}
+.text-decorate{
+    text-align: center;
+    color: white;
+}
+.year{
+    color: brown;
+}
+.cng-font{
+    font-family: 'Courgette', cursive;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Island Moments', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
